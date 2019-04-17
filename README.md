@@ -8,7 +8,7 @@ Interfata CalculateService va trebui sa aiba trei implementari: una care va calc
 <p>Se vor face validari si se vor arunca exceptii pe cazurile negative :</p>
 
 * Pentru toate implementarile : lista primita ca input sa nu fie goala si sa nu fie null
-* Pentru implementarea calculului sumei : suma sa nu depaseasca valoarea Integer.MAX_INT
+* Pentru implementarea calculului sumei : suma sa nu depaseasca valoarea Integer.MAX_VALUE
 * Pentru implementarea calculului mediei : lista primita sa nu contina numere negative
 * Pentru implementarea numararii duplicatelor : lista sa contina si elemente unice
 
